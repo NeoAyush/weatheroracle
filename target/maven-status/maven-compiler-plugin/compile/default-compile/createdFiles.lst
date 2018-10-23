@@ -1,0 +1,11 @@
+marsh\test\api\constants\Constants.class
+marsh\test\api\App.class
+marsh\test\api\controller\WeatherController.class
+marsh\test\api\domain\Forecast.class
+marsh\test\api\exceptions\InternalAPICallFailedException.class
+marsh\test\api\exceptions\InvalidZipCodeException.class
+marsh\test\api\ServiceConfiguration.class
+marsh\test\api\domain\WeatherResponse.class
+marsh\test\api\controller\ApiExceptionHandler.class
+marsh\test\api\service\IWeatherService.class
+marsh\test\api\service\WeatherService.class
